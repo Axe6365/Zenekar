@@ -40,3 +40,24 @@ nav{
 .albumokmain{
     text-align: center;
 }
+
+
+
+.tagkep img{
+    height: 300px;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+
+.sor{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.bgszin{
+    background-color: black;
+    color: orange;
+}
