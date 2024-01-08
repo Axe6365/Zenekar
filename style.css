@@ -1,14 +1,15 @@
 .kezdooldalimg{
-    height: 600px;
+    height: 700px;
     background-image: url("https://blog.tixa.hu/wp-content/uploads/2021/07/tankcsapda_budapest_park_01.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .albumokimg{
-    height: 600px;
+    height: 700px;
     background-image: url("https://www.tankcsapda.com/cms/templates/default/images/banners/banner-93.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position-y: -60px;
 }
 nav{
     font-weight: bolder;
