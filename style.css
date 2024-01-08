@@ -1,14 +1,24 @@
 .kezdooldalimg{
-    height: 600px;
-    background-image: url("https://blog.tixa.hu/wp-content/uploads/2021/07/tankcsapda_budapest_park_01.jpg");
+    height: 700px;
+    background-image: url("https://cdn.discordapp.com/attachments/1061631100125970533/1193917813480497283/Tankcsapda_Lovarda_20231230_019.png?ex=65ae759c&is=659c009c&hm=64bbefd786ffc8c8f762882c200507b04bd43aeef8a75b8ad82ff2e8cb69f98f&");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position:bottom;
+    background-position-y: 0px;
 }
 .albumokimg{
-    height: 600px;
+    height: 700px;
     background-image: url("https://www.tankcsapda.com/cms/templates/default/images/banners/banner-93.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position-y: -60px;
+}
+.koncertekimg{
+    height: 500px;
+    background-image:url("https://m.blog.hu/la/langologitarok/image//tankcsapda_5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -150px;
 }
 nav{
     font-weight: bolder;
