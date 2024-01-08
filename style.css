@@ -13,6 +13,13 @@
     background-size: cover;
     background-position-y: -60px;
 }
+.koncertekimg{
+    height: 500px;
+    background-image:url("https://m.blog.hu/la/langologitarok/image//tankcsapda_5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -150px;
+}
 nav{
     font-weight: bolder;
     font-size: large;
@@ -42,4 +49,19 @@ nav{
 }
 .albumokmain{
     text-align: center;
+}
+.koncertkep1{
+display: block;
+float:right;
+border-radius: 4px,solid,red;
+}
+.space{
+    padding-top:80px;
+}
+.koncertbg{
+    background-color: black;
+}
+footer{
+    background-color: black;
+    height: 300px;
 }
