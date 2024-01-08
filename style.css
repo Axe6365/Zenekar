@@ -1,3 +1,20 @@
 header{
-    background-image: url("main-logo.png");
+    height: 600px;
+    background-image: url("https://blog.tixa.hu/wp-content/uploads/2021/07/tankcsapda_budapest_park_01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    font-weight: bolder;
+    font-size: large;
+}
+.navbar a{
+    background-color: rgba(0, 0, 0, 0.700);
+    color: rgb(240, 190, 54);
+    text-decoration: none;
+}
+.middle{
+    margin: auto;
+    justify-content: center;
+
 }
