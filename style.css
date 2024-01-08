@@ -53,13 +53,28 @@ nav{
 .koncertkep1{
 display: block;
 float:right;
-border-radius: 4px,solid,red;
+border: 2px solid rgb(143, 22, 22);
 }
+.koncertkep2{
+    display: block;
+    float:right;
+    border: 2px solid rgb(143, 22, 22);
+    }
 .space{
     padding-top:80px;
 }
 .koncertbg{
     background-color: black;
+}
+.szoveg1{
+    color: rgb(143, 22, 22);
+    text-align: center;
+    margin:auto;
+}
+.szoveg2{
+    color: rgb(143, 22, 22);
+    text-align: center;
+    margin:auto;
 }
 footer{
     background-color: black;
