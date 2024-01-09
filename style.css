@@ -44,11 +44,17 @@ nav{
     background-color: rgba(0, 0, 0, 0.700);
     color: rgb(240, 190, 54);
     text-decoration: none;
+    display: block;
+    position: relative;
+    align-items: center;
 }
 .middle{
     margin: auto;
     justify-content: center;
 
+}
+.space{
+    padding-top:20px;
 }
 .boritok{
     width: 150px;
@@ -64,5 +70,70 @@ nav{
     margin: 5px;
 }
 .albumokmain{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    height: 160px;
+    text-align: center;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+footer h2{
+    color:white;
+}
+.koncertbg{
+    background-color: black;
+}
+.szoveg1{
+    margin: auto;
+    text-align: center;
+    color: rgb(102, 18, 18);
+}
+.koncertkep1{
+    border: 3px solid rgb(102, 18, 18);
+}
+.fooldalbemL{
+    height: 300px;
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+.fooldalbemF{
+    height: 300px;
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+.fooldalbemS{
+    height: 300px;
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+.kialakulas{
+    background-image: url("https://rattle.hu/wp-content/uploads/2020/05/96067218_870814726730401_5192935848244412416_n.jpg");
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kialakulas div{
+    background-color: rgba(0,0,0,0.5);
+}
+.container{
+    max-width: 2000px;
+}
+.instakep{
+    size: 10px;
+    display: block;
+}
+.middle{
+    margin: auto;
+    text-align: center;
+}
+.light{
+    color: rgb(255,255,255);
     text-align: center;
 }
